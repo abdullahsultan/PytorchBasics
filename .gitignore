@@ -1,3 +1,5 @@
 data/
 __pycache__/helper_functions.cpython-312.pyc
 runs/
+py_scripts/__pycache__/data_setup.cpython-312.pyc
+py_scripts/__pycache__/engine.cpython-312.pyc
