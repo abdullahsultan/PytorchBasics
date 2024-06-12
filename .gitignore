@@ -3,3 +3,11 @@ __pycache__/helper_functions.cpython-312.pyc
 runs/
 py_scripts/__pycache__/data_setup.cpython-312.pyc
 py_scripts/__pycache__/engine.cpython-312.pyc
+demos/foodvision_mini.zip
+demos/foodvision_mini/app.py
+demos/foodvision_mini/effnetb2.pth
+demos/foodvision_mini/examples/2582289.jpg
+demos/foodvision_mini/examples/3622237.jpg
+demos/foodvision_mini/examples/592799.jpg
+demos/foodvision_mini/model.py
+demos/foodvision_mini/requirements.txt
